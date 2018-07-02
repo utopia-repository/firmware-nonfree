@@ -1,5 +1,5 @@
 Package: firmware-@package@
-Architecture: all
+Architecture: armhf arm64
 Replaces: @?replaces@
 Conflicts: @?conflicts@
 Breaks: @?breaks@
