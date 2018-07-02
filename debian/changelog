@@ -1,4 +1,4 @@
-firmware-nonfree (1:20161130-3+rpt3utopia1) experimental; urgency=low
+firmware-nonfree (1:20161130+3+rpt3utopia1) experimental; urgency=low
 
   * Utopia repository import.
   * Bump to linux-support 4.9.0-6
