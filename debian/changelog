@@ -5,6 +5,7 @@ firmware-nonfree (1:20161130-3+rpt3utopia1) experimental; urgency=low
   * Disable everything except firmware-brcm80211
   * Limit build to armhf arm64; avoid overriding the Debian firmware packages
     on other architectures.
+  * Build as native (no obvious tarballs available?)
 
  -- James Lu <james@overdrivenetworks.com>  Mon, 02 Jul 2018 14:35:24 -0700
 
