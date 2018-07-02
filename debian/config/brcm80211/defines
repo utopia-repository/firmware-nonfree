@@ -1,5 +1,5 @@
 [base]
-desc: Broadcom 802.11 wireless cards
+desc: Broadcom 802.11 wireless cards (Raspbian fork)
 files:
  brcm/bcm43xx-0.fw
  brcm/bcm43xx_hdr-0.fw
@@ -32,7 +32,7 @@ files:
  brcm/brcmfmac43602-pcie.bin
  brcm/brcmfmac4366b-pcie.bin
  brcm/brcmfmac4371-pcie.bin
-longdesc: wireless network cards supported by the brcmsmac or brcmfmac driver
+longdesc: wireless network cards supported by the brcmsmac or brcmfmac driver, sourced from Raspbian
 
 [brcm/bcm43xx-0.fw_base]
 desc: Broadcom 802.11 firmware
