@@ -155,6 +155,7 @@ class GenControl(debian_linux.gencontrol.Gencontrol):
         packages['source'] = self.process_package(source[0], ())
 
     def do_meta(self, packages, makefile):
+        return  # Disabled for Utopia Repository build
         config_entry = self.config['base',]
         vars = {}
         vars.update(config_entry)

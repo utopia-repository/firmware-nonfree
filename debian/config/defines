@@ -1,25 +1,6 @@
 [base]
 packages:
- amd-graphics
- atheros
- bnx2
- bnx2x
  brcm80211
- cavium
- intelwimax
- intel-sound
- ipw2x00
- ivtv
- iwlwifi
- libertas
- misc-nonfree
- myricom
- netxen
- qlogic
- realtek
- samsung
- siano
- ti-connectivity
 uri: https://git.kernel.org/cgit/linux/kernel/git/firmware/linux-firmware.git
 
 [upstream]
